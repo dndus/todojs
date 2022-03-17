@@ -134,5 +134,7 @@ main {
     var(--purple));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-
+}
+.task .actions .delete {
+    color: crimson;
 }
